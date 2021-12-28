@@ -1,0 +1,86 @@
+
+body{
+
+    font-family: 'Courier New', Courier, monospace !important;
+    background-image: linear-gradient(120deg, #e0dcdb, #18c721);
+    color: white !important;
+    min-height: 100vh;
+
+}
+h1{
+    background-image: linear-gradient(120deg, #ca2f08, #e00a80);
+   color: transparent; 
+   -webkit-background-clip: text;
+        -moz-background-clip: text;
+        background-clip: text;
+}
+.editBTn{
+   
+    border: none;
+    
+    /* margin-left:5px ;
+    margin-right:5px ; */
+    /* background-color: blue; */
+    
+}
+.delBTn{
+   
+    border: none;
+   
+    /* margin-left:5px ;
+    margin-right:5px ; */
+    /* background-color: blue; */
+    
+}
+.sList{
+    text-align: left;
+
+    padding: 5px !important;
+   margin-bottom: 10px !important;
+    border: 3px solid white;
+    /* width: 60% !important; */
+    color: rgb(7, 5, 7) !important;
+    background-color: white;
+    border-radius: 10px 10px 10px 10px;
+}
+.myInput{
+    
+    border: 3px solid white;
+    /* width: 45% !important; */
+    color: red;
+    background-color: white;
+    border-radius: 5px 5px 5px 5px;
+}
+.myinpS{
+    color: rgb(7, 5, 7) !important;
+  
+    border: none !important;
+    box-shadow: none !important;
+}
+.myBtn{
+    
+    border: none !important;
+   
+    border-radius: 0px !important;
+    color: #18c721 !important;
+    background-color: white !important;
+}
+.myBtn1{
+    
+    border: none !important;
+   margin-left: 5px;
+  
+    border-radius: 0px !important;
+    color: #18c721 !important;
+    background-color: white !important;
+}
+.myBtn2{
+  
+    border: none !important;
+ 
+    border-radius: 0px !important;
+    color: #18c721 !important;
+    background-color: white !important;
+}
+
+
